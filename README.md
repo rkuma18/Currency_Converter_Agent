@@ -113,8 +113,8 @@ Make sure to include `.env` secrets in the deployment environment.
 * [ ] Enhance UI with file uploads or charts
 
 ---
-## Try it:
-* [Try out](https://huggingface.co/spaces/rkuma18/Currency_Converter_Chat)
+## Check out:
+* [Currency_Converter_Agent](https://huggingface.co/spaces/rkuma18/Currency_Converter_Chat)
 
 ## License
 
